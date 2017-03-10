@@ -5,4 +5,5 @@ var config = {
     storageBucket: "chatapp-4bfce.appspot.com",
     messagingSenderId: "641040744150"
 };
+
 firebase.initializeApp(config);
